@@ -1,0 +1,204 @@
+@media screen and (max-width: 400px){
+    *{
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+    .forth-k{
+        width: 100%;
+        height: 750px;
+        /* background-color: white; */
+        display: flex;
+        flex-direction: column;
+        /* justify-content: space-evenly; */
+    }
+    .forth-f{
+        margin-left: 20px;
+        color: white;
+    }
+    .forth-l{
+        width: 100%;
+         height: 400px;
+        /* background-color: rgb(48, 16, 231); */
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .forth-m{
+        width: 90%;
+        display: flex;
+        /* justify-content: flex-start; */
+        /* justify-content: center; */
+        /* justify-content: space-evenly; */
+        align-items: center;
+        /* background-color:red ; */
+    }
+    .forth-n{
+        width: 90%;
+    }
+    .forth-o{
+       width: 90%; 
+
+   
+    }
+
+    .forth-p{
+        width: 100%;
+    }
+    .forth-s{
+        width: 50px;
+        height: 50px;
+        margin-left: -7 0px;
+        /* margin-bottom: ; */
+        position: absolute;
+        
+    
+        
+    
+        
+    
+    
+    
+    }
+
+
+    
+.secseven-1{
+    display: flex;
+    /* justify-content: center; */
+    flex-direction:column;
+    align-items: center;
+    /* background-color:rgb(230, 30, 30); */
+    width: 100%;
+    height:90px;
+    border-bottom: 1px solid rgb(238, 234, 234);
+
+}
+.secsevenfreediv{
+    width: 100%;
+    height: 35px;
+    /* background-color: rgb(94, 255, 255); */
+}
+
+.secsevenmaindiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 85px;
+    /* background-color: rgba(63, 215, 29, 0.404); */
+}
+
+
+.secsevenmaindiv-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    width:100%;
+    height: 65px;
+    /* background-color: gold; */
+    overflow-y: hidden;
+}
+
+.secsevendiv-13{
+    width: 270px;
+    height: 90%;
+    /* background-color: rgb(140, 145, 145); */
+    margin-right: 3px;
+}
+
+}
+
+.secseven-111{
+    display:flex;
+    justify-content:start;
+    align-items: center;
+    width: 100%;
+    height: 20%;
+    /* background-color: rgb(206, 172, 237); */
+}
+
+.secsevenspan-111{
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 10px;
+    color: rgb(75, 86, 106);
+}
+
+.secsevenspan1121{
+    margin-left: 10px;
+    color: darkblue;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.secsevenplaneimg{
+    margin-top: 5px;
+    width: 65%;
+    height: 36%;
+    margin-top:15px;
+    margin-right: 5px;
+}
+
+.secsevenplaneimg-1{
+    width: 40%;
+    height: 40%;
+    margin-top: 20px;
+    margin-right:10px;
+}
+
+.secsevencelendarimg{
+    width: 40%;
+    height: 40%;
+    margin-top: 20px;
+    margin-right: 6px;
+}
+
+.secsevendiv-11{
+    width: 290px;
+    height: 85%;
+    /* background-color: rgb(106, 144, 144); */
+}
+
+.secsevendiv-12{
+    width: 290px;
+    height: 85%;
+    /* background-color: rgb(193, 218, 218); */
+}
+
+.secsevendiv-13{
+    width: 300px;
+    height: 85%;
+    /* background-color: rgb(140, 145, 145); */
+}
+
+.secseven1121{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 99%;
+    height: 90%;
+    box-shadow: 1px 1px 1px 1px rgb(232, 228, 228);
+    border-radius: 5px;
+    background-color:rgb(214, 233, 246);
+         /* not reome background colour  */
+         overflow-y: hidden;
+}
+
+.secsevenfreediv{
+    width: 100%;
+    height: 5px;
+    /* background-color: rgb(94, 255, 255); */
+}
+.secsevenmaindiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 85px;
+    /* background-color: rgba(135, 174, 161, 0.404); */
+    overflow-y: hidden;
+}

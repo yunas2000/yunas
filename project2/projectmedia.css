@@ -1,0 +1,115 @@
+@media(max-width:500px){
+
+    *{overflow-x: hidden;}
+    .page{
+        width: 500px;
+        height: 180vh;
+    }
+    .project{
+        background-image: linear-gradient(to right, rgb(11, 11, 57), rgb(53, 9, 9));
+        width: 500px;
+        height:160vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* flex-direction: column; */
+    }
+
+    .topwhitebox { background-color: white;
+        width: 500px;
+        height: 10px;
+      }
+    
+    
+      .allboxdiv{ 
+        /* background-color: rgb(16, 238, 216); */
+        width: 450px;
+        height: 130vh;
+        display: flex;
+        justify-content:space-around;
+        /* align-items: center; */
+        flex-direction: column;
+        padding-top: 0%;
+      }
+
+      .box1 {
+        /* background-color:rgb(6, 201, 16); */
+        width: 200px;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        padding-top: 0px;
+      }
+      
+     .box2 {
+    /* background-color: rgb(22, 228, 49); */
+    padding-left: 0px;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    }
+    .box3 {
+        /* background-color: rgb(21, 241, 13); */
+        width: 100px;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+      }
+      .box4 {
+        /* background-color: rgb(19, 229, 50); */
+      
+        width: 260px;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+      
+        flex-direction: column;
+      }
+      .last {
+        /* background-color:rgb(219, 36, 173); */
+        width: 500px;
+        height: 100px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+      }
+      .lasthrline {
+        /* background-color:rgb(23, 11, 201);; */
+        width: 420px;
+      }
+      p {
+         /* background-color: violet; */
+        color: white;
+        font-family: "Lato", sans-serif;
+        font-family: "Poppins", sans-serif;
+        font-family: "Roboto", sans-serif;
+        padding-bottom: 0px;
+       margin-right: 120px;
+      }
+      
+      .logo {
+        /* background-color: aqua; */
+        width: 70px;
+        height: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        transition: transform 0.2s;
+      }
+      .socialmedia {
+        /* background-color: red; */
+        width: 180px;
+        height: 50px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+      }
+      
+    }
+}
+    
+
+    

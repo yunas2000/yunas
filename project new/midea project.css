@@ -1,0 +1,71 @@
+@media (max-width: 500px) {
+    *{    
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    }
+    .forth-k{
+        width: 100%;
+        height: 750px;
+        /* background-color: white; */
+        display: flex;
+        flex-direction: column;
+        /* justify-content: space-evenly; */
+    }
+    .forth-f{
+        margin-left: 20px;
+        color: white;
+    }
+    .forth-l{
+        width: 100%;
+         height: 400px;
+        /* background-color: rgb(48, 16, 231); */
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .forth-m{
+        width: 90%;
+        display: flex;
+        /* justify-content: flex-start; */
+        /* justify-content: center; */
+        /* justify-content: space-evenly; */
+        align-items: center;
+        /* background-color:red ; */
+    }
+    .forth-n{
+        width: 90%;
+    }
+    .forth-o{
+       width: 90%; 
+
+   
+    }
+
+    .forth-p{
+        width: 100%;
+    }
+    .forth-s{
+        width: 50px;
+        height: 50px;
+        margin-left: -7 0px;
+        /* margin-bottom: ; */
+        position: absolute;
+        
+    
+        
+    
+        
+    
+    
+    
+    }
+
+
+
+
+
+
+
+}
